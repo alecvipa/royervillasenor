@@ -46,6 +46,12 @@ body{
 .proyectosBtn{
     margin-top: 50%;
 }
+.proyectosDiv2{
+    margin-top: 7%;
+}
+.card{
+    margin-left: 13%;
+}
 
 @media (min-width: 401px) and (max-width: 768px) {
     .imgRoPortrait{
@@ -61,6 +67,10 @@ body{
     .proyectosBtn{
         margin-top: 10%;
         margin-bottom: 10%;
+    }
+    .card{
+        margin-left: 6%;
+        margin-bottom: 5%;
     }
 }
 
@@ -78,6 +88,10 @@ body{
     .proyectosBtn{
         margin-top: 10%;
         margin-bottom: 10%;
+    }
+    .card{
+        margin-left: 6%;
+        margin-bottom: 5%;
     }
 
 }

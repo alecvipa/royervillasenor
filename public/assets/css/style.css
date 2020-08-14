@@ -52,6 +52,21 @@ body{
 .card{
     margin-left: 13%;
 }
+.abandonoDiv{
+    margin-top: 5%;
+}
+.abandono1{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+}
+.abandono1:hover {
+    box-shadow: 0 0 5px 1px white;
+}
+.img-thumbnail{
+    margin-top: 3%;
+}
 
 @media (min-width: 401px) and (max-width: 768px) {
     .imgRoPortrait{

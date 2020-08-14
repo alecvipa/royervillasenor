@@ -52,7 +52,7 @@ body{
 .card{
     margin-left: 13%;
 }
-.abandonoDiv{
+.abandonoDiv, .contenidosDiv{
     margin-top: 5%;
 }
 .abandono1{

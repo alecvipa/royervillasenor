@@ -87,9 +87,15 @@ body{
         margin-left: 6%;
         margin-bottom: 5%;
     }
+    .proyectosDiv2{
+        margin-left: 5%;
+    }
 }
 
 @media (max-width: 400px) {
+    .proyectosDiv2{
+        margin-left: 5%;
+    }
     .imgRoPortrait{
         height: 15rem;
         margin-bottom: 10%;
